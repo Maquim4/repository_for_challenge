@@ -19,11 +19,11 @@ int main()
 	{
        switch (choice)
 	   {
-	   case 1:cout << " Ïðèâåò, Ìèð\n";
+	   case 1:cout << " ÃÃ°Ã¨Ã¢Ã¥Ã², ÃŒÃ¨Ã°\n";
 		   break;
 	   case 2:cout << " Salem Alem\n";
 		   break;
-	   case 3:cout << " Ni2hao3,shi4jie4\n";
+	   default:cout << " Ni2hao3,shi4jie4\n";
 		   break;
 	   }
 	}
