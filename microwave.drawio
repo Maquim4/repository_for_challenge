@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T17:50:58.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zEQIO1hTljFecgyp-3Sr" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T08:31:53.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dMqfxK3jR5fqCZSu4DKv" version="21.0.2" type="github">
   <diagram name="Page-1" id="kksrU-J7RmdfJkJG-z9g">
-    <mxGraphModel dx="1236" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RxlpYsVskv-hnWhugoj_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="240" y="310" width="70" height="470" as="geometry" />
+          <mxGeometry x="240" y="310" width="70" height="570" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-3" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot; face=&quot;Times New Roman&quot;&gt;С&lt;br&gt;и&lt;br&gt;с&lt;br&gt;т&lt;br&gt;е&lt;br&gt;м&lt;br&gt;а&lt;br&gt;&lt;br&gt;м&lt;br&gt;и&lt;br&gt;к&lt;br&gt;р&lt;br&gt;о&lt;br&gt;в&lt;br&gt;о&lt;br&gt;л&lt;br&gt;н&lt;br&gt;о&lt;br&gt;в&lt;br&gt;к&lt;br&gt;а&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="509.71" width="105.6" height="10.22" as="geometry" />
@@ -19,16 +19,10 @@
         <mxCell id="RxlpYsVskv-hnWhugoj_-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Подключение сетевого кабеля к&lt;br&gt;розетке&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="50" y="330" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RxlpYsVskv-hnWhugoj_-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=-0.026;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="RxlpYsVskv-hnWhugoj_-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="360" as="sourcePoint" />
-            <mxPoint x="190" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="450" as="sourcePoint" />
-            <mxPoint x="240" y="450" as="targetPoint" />
+            <mxPoint x="50" y="410" as="sourcePoint" />
+            <mxPoint x="240" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Устройство подключено к эл.сети.&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -41,123 +35,123 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-14" value="Открыть дверцу, поставить тарелку с едой на платформу, закрыть дверцу&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="420" width="190" height="30" as="geometry" />
+          <mxGeometry x="50" y="380" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-15" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Выбрать режим&amp;nbsp; разогрева, нажать на кнопку&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="450" width="170" height="30" as="geometry" />
+          <mxGeometry x="50" y="419.98" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-16" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="480" as="sourcePoint" />
-            <mxPoint x="240" y="480" as="targetPoint" />
+            <mxPoint x="50" y="449.98" as="sourcePoint" />
+            <mxPoint x="240" y="449.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-19" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Поворотным регулятором настроить таймер&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="480" width="170" height="30" as="geometry" />
+          <mxGeometry x="50" y="460" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="510" as="sourcePoint" />
-            <mxPoint x="240" y="510" as="targetPoint" />
+            <mxPoint x="50" y="490" as="sourcePoint" />
+            <mxPoint x="240" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Нажать кнопку &quot;Старт&quot;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="509.71" width="170" height="30" as="geometry" />
+          <mxGeometry x="50" y="560" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-24" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="539.71" as="sourcePoint" />
-            <mxPoint x="240" y="539.71" as="targetPoint" />
+            <mxPoint x="50" y="590" as="sourcePoint" />
+            <mxPoint x="240" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-25" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Устройство издает звуковой сигнал начала, внутри загорается свет, на панели таймера отображается обратный отсчет времени,&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="430" width="170" height="30" as="geometry" />
+          <mxGeometry x="580" y="509.31" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-26" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="480" as="sourcePoint" />
-            <mxPoint x="500" y="480" as="targetPoint" />
+            <mxPoint x="570" y="559.31" as="sourcePoint" />
+            <mxPoint x="760" y="559.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;По истечению времени на таймере издается звуковой сигнал, еда разогрета&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="489.93" width="170" height="30" as="geometry" />
+          <mxGeometry x="320" y="597.86" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-31" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="530" as="sourcePoint" />
-            <mxPoint x="500" y="530" as="targetPoint" />
+            <mxPoint x="310" y="637.93" as="sourcePoint" />
+            <mxPoint x="500" y="637.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Габариты&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="554" width="170" height="30" as="geometry" />
+          <mxGeometry x="320" y="664.76" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-33" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="585" as="sourcePoint" />
-            <mxPoint x="500" y="585" as="targetPoint" />
+            <mxPoint x="310" y="695.76" as="sourcePoint" />
+            <mxPoint x="500" y="695.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-36" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Химический состав материалов изделия&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="593.93" width="170" height="30" as="geometry" />
+          <mxGeometry x="320" y="704.6899999999999" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-37" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="629" as="sourcePoint" />
-            <mxPoint x="500" y="629" as="targetPoint" />
+            <mxPoint x="310" y="739.76" as="sourcePoint" />
+            <mxPoint x="500" y="739.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-38" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Повторное нажатие кнопки &quot;Старт&quot;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="644.93" width="170" height="30" as="geometry" />
+          <mxGeometry x="50" y="759.9999999999999" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-39" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="671" as="sourcePoint" />
-            <mxPoint x="240" y="671" as="targetPoint" />
+            <mxPoint x="50" y="785.1600000000001" as="sourcePoint" />
+            <mxPoint x="240" y="785.1600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Продлевает таймер на 30 секунд&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="644.93" width="170" height="30" as="geometry" />
+          <mxGeometry x="320" y="764.66" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-41" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="669.55" as="sourcePoint" />
-            <mxPoint x="500" y="669.55" as="targetPoint" />
+            <mxPoint x="310" y="789.28" as="sourcePoint" />
+            <mxPoint x="500" y="789.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Прибор не используется в течение&lt;br/&gt;5 минут&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="680" width="170" height="30" as="geometry" />
+          <mxGeometry x="50" y="794.1600000000001" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-45" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="716.07" as="sourcePoint" />
-            <mxPoint x="240" y="716.07" as="targetPoint" />
+            <mxPoint x="50" y="830.23" as="sourcePoint" />
+            <mxPoint x="240" y="830.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-46" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Таймер сменяется электронными часами&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="680" width="170" height="30" as="geometry" />
+          <mxGeometry x="320" y="799.73" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Выключить прибор при помощи&lt;br&gt;сетевого выключателя&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="720" width="170" height="30" as="geometry" />
+          <mxGeometry x="50" y="834.1600000000001" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-52" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="756.07" as="sourcePoint" />
-            <mxPoint x="240" y="756.07" as="targetPoint" />
+            <mxPoint x="50" y="870.23" as="sourcePoint" />
+            <mxPoint x="240" y="870.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-53" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="714.58" as="sourcePoint" />
-            <mxPoint x="500" y="714.58" as="targetPoint" />
+            <mxPoint x="310" y="834.3100000000001" as="sourcePoint" />
+            <mxPoint x="500" y="834.3100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Таймер гаснет. Прибор отключен&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="720" width="170" height="30" as="geometry" />
+          <mxGeometry x="320" y="839.73" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-55" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="754.58" as="sourcePoint" />
-            <mxPoint x="500" y="754.58" as="targetPoint" />
+            <mxPoint x="310" y="874.3100000000001" as="sourcePoint" />
+            <mxPoint x="500" y="874.3100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RxlpYsVskv-hnWhugoj_-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
@@ -289,11 +283,62 @@
         <mxCell id="RxlpYsVskv-hnWhugoj_-163" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Тарелка&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1425" y="668" width="163.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kwwRMT1KxbcjGRXfhp4a-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Кнопка&amp;nbsp;&lt;/font&gt;STOP" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kwwRMT1KxbcjGRXfhp4a-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Кнопка&amp;nbsp;&lt;/font&gt;STOP" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1245" y="755" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kwwRMT1KxbcjGRXfhp4a-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Генератор микроволн&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kwwRMT1KxbcjGRXfhp4a-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Генератор микроволн&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1423.44" y="885" width="166.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--1" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Тарелка с едой правильно помещена&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="409.29" as="sourcePoint" />
+            <mxPoint x="500" y="409.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Устройство издает звуковой сигнал начала&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="519.29" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--4" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="549.29" as="sourcePoint" />
+            <mxPoint x="500" y="549.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Внутри микроволновки загорается свет&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="558.6199999999999" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--10" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="589.31" as="sourcePoint" />
+            <mxPoint x="500" y="589.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--11" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Режим разогрева выбран&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="419.98" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="449.27000000000004" as="sourcePoint" />
+            <mxPoint x="500" y="449.27000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--13" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Время разогрева назначено&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="489.29" as="sourcePoint" />
+            <mxPoint x="500" y="489.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV7SM5O3dsJe5yBJO4I--15" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;entryX=0;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
