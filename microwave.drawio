@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T10:42:48.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_RlHtWw-szuANsEY_lNm" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T12:17:55.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cgPEdOykQNDfTtIc89Hk" version="21.0.8" type="github">
   <diagram name="Page-1" id="kksrU-J7RmdfJkJG-z9g">
-    <mxGraphModel dx="604" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,6 +417,18 @@
         </mxCell>
         <mxCell id="vF2LHFwm57G5_SMIIfvB-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Выбор режима&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2330" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2LHFwm57G5_SMIIfvB-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;еда разогрета&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="620.0000000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vF2LHFwm57G5_SMIIfvB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2795" y="683.9300000000001" as="targetPoint" />
+            <mxPoint x="2795" y="590" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2795" y="603.9300000000001" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
